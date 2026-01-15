@@ -1,2 +1,2 @@
 # Solana-scrolly-game
-I made a submission for the scrolly solana game jam
+I built a quick tap game as a submission for the solana game jam
